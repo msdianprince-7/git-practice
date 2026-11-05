@@ -8,3 +8,4 @@ A practice repo for git workflows, plus short engineering notes from open source
 - [Add/add merge conflicts](notes/02-add-add-merge-conflicts.md)
 - [Proving an API proxy fix without provider keys](notes/03-proof-without-provider-keys.md)
 - ["Unknown" is not the same as "false"](notes/04-unknown-is-not-false.md)
+- [Precedence for capability settings](notes/05-capability-precedence.md)
