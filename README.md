@@ -10,3 +10,4 @@ A practice repo for git workflows, plus short engineering notes from open source
 - ["Unknown" is not the same as "false"](notes/04-unknown-is-not-false.md)
 - [Precedence for capability settings](notes/05-capability-precedence.md)
 - [Check that a regression test actually catches the bug](notes/06-tests-that-fail-on-old-code.md)
+- [Finding an issue nobody is already fixing](notes/07-finding-unclaimed-issues.md)
