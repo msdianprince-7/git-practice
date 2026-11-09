@@ -12,3 +12,4 @@ A practice repo for git workflows, plus short engineering notes from open source
 - [Check that a regression test actually catches the bug](notes/06-tests-that-fail-on-old-code.md)
 - [Finding an issue nobody is already fixing](notes/07-finding-unclaimed-issues.md)
 - [Fork PR checks that never ran](notes/08-fork-pr-ci-needs-approval.md)
+- [Is a bug already fixed in a given release?](notes/09-is-it-fixed-in-a-release.md)
