@@ -16,3 +16,4 @@ A practice repo for git workflows, plus short engineering notes from open source
 - [Freeing disk space on Windows without breaking things](notes/10-freeing-disk-space-safely.md)
 - [Activating a Python virtual environment on Windows](notes/11-activating-a-venv-on-windows.md)
 - [Line-ending noise that blocks a rebase](notes/12-line-ending-noise.md)
+- [When a compiled extension blocks local tests](notes/13-compiled-extension-blocks-tests.md)
