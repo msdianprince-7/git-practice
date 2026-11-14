@@ -17,3 +17,4 @@ A practice repo for git workflows, plus short engineering notes from open source
 - [Activating a Python virtual environment on Windows](notes/11-activating-a-venv-on-windows.md)
 - [Line-ending noise that blocks a rebase](notes/12-line-ending-noise.md)
 - [When a compiled extension blocks local tests](notes/13-compiled-extension-blocks-tests.md)
+- [Keep the PR description in sync with the code](notes/14-keep-the-pr-description-current.md)
